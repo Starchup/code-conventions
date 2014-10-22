@@ -55,4 +55,4 @@ Starchup Code Conventions
 ### Frontend CSS
 
 * Code width: 100 characters
-* Tab size: 2 spaces
+* Tab size: 4 spaces
