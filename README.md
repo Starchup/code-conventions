@@ -3,6 +3,7 @@ Starchup Code Conventions
 
 ### Backend JS
 
+* https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 * Code width: 100 characters
 * Tab size: 4 spaces
 
@@ -58,8 +59,8 @@ Starchup Code Conventions
 * Tab size: 4 spaces
 * Always shorthand color hash i.e. '#777777' = '#777'.
 * All measurements are to be in px, not em. (1em = 16px)
-* Selectors are to be in alphabetical order.
-* Color values and opacities equal to '1' should NOT be written as '1.0', they should be written as '1'.
-* Color fraction values e.g. '0.3' must have the '0.' before to ensure crossbrowser compatability. Do NOT do '.3'.
+* Selectors are to be in alphabetical order (within modules or not)
+* Color values and opacities equal to '1' should be written as such (and NOT '1.0').
+* Color fraction values e.g. '0.3' must have the '0.' before to ensure maximum compatability.
 * 0px should always be written as '0'.
 * CAPITALIZATION matters for font-familes! 'Proxima-Nova' ≠ 'proxima-nova'
