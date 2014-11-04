@@ -47,6 +47,8 @@ Starchup Code Conventions
 * Tab size: 2 spaces
 
 
+### [AngularJS](https://github.com/mgechev/angularjs-style-guide)
+
 ### Frontend JS
 
 * Code width: 100 characters
