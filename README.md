@@ -1,6 +1,10 @@
 Starchup Code Conventions
 =========================
 
+### Git
+
+* Follow: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html  
+
 ### Backend JS
 
 * https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
