@@ -93,3 +93,15 @@ Starchup Code Conventions
 * Color fraction values e.g. '0.3' must have the '0.' before to ensure maximum compatability.
 * 0px should always be written as '0'.
 * CAPITALIZATION matters for font-familes! 'Proxima-Nova' ≠ 'proxima-nova'
+
+
+
+* Always use `rem` for fonts instead of em
+* Try to avoid % vs calc for fonts, but they are allowed
+* Don't use vh/vw for layout
+* Use % when possible, flexbox when useful 
+* Don't do any device ratio calculations, just use the device width for font scaling
+* Using constants/variables whenever possible in sass
+* Use ms instead s for transition times
+* If you have 2 options that use CSS, use the one with the last amount of code
+* If you have 2 options, 1 CSS & 1 JS, use the CSS ONe
