@@ -84,18 +84,10 @@ Starchup Code Conventions
 
 ### Frontend CSS
 
-* Code width: 100 characters
 * Tab size: 4 spaces
-* Always shorthand color hash i.e. '#777777' = '#777'.
-* All measurements are to be in px, not em. (1em = 16px)
-* Selectors are to be in alphabetical order (within modules or not)
 * Color values and opacities equal to '1' should be written as such (and NOT '1.0').
 * Color fraction values e.g. '0.3' must have the '0.' before to ensure maximum compatability.
-* 0px should always be written as '0'.
 * CAPITALIZATION matters for font-familes! 'Proxima-Nova' ≠ 'proxima-nova'
-
-
-
 * Always use `rem` for fonts instead of em
 * Try to avoid % vs calc for fonts, but they are allowed
 * Don't use vh/vw for layout
