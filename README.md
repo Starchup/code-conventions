@@ -94,3 +94,4 @@ Starchup Code Conventions
 * Use `ms` instead `s` for transition times
 * If you have 2 options that use CSS, use the one with the last amount of code
 * If you have 2 options, 1 CSS & 1 JS, use the CSS ONe
+* Avoid using Ids in CSS unless absolutely necessary
