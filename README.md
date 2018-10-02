@@ -48,7 +48,7 @@ Starchup Code Conventions
 ### Backend JSON
 
 * Code width: 100 characters
-* Tab size: 2 spaces
+* Tab size: 4 spaces
 
 
 ### [AngularJS](https://github.com/mgechev/angularjs-style-guide)
