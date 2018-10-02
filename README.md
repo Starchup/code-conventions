@@ -11,11 +11,6 @@ Starchup Code Conventions
 * Code width: 100 characters
 * Tab size: 4 spaces
 
-* Referencing other models `CurrentModel.app.models.OtherModel.method()`  
-	Should always have its own line:  
-  `OtherModel = CurrentModel.app.models.OtherModel`  
-  `OtherModel.method();`
-
 * Wrapping of `{}`: Any function that contains more then 1 line of code should be wrapped as such:
   ```
   myFunction()
