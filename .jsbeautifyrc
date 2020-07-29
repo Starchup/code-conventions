@@ -1,0 +1,24 @@
+{
+    "all":
+    {
+        "indent_size": 4,
+        "indent_with_tabs": false,
+        "end_with_newline": false
+    },
+
+    "js":
+    {
+        "e4x": true,
+        "brace_style": "expand",
+        "space_after_anon_function": false,
+        "space_before_conditional": true,
+        "space_in_empty_paren": false,
+        "space_in_paren": false,
+        "jslint_happy": true,
+        "allowed_file_extensions": ["json", "jshintrc", "jsbeautifyrc", "sublime-project"]
+    },
+    "css":
+    {
+        "allowed_file_extensions": ["css", "scss", "less"]
+    }
+}
