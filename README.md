@@ -9,7 +9,7 @@ Starchup Code Conventions
 
 * https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 * Code width: 100 characters
-* Tab size: 4 spaces
+* Indent size: 4 spaces
 
 * Wrapping of `{}`: Any function that contains more then 1 line of code should be wrapped as such:
   ```
@@ -43,7 +43,7 @@ Starchup Code Conventions
 ### Backend JSON
 
 * Code width: 100 characters
-* Tab size: 4 spaces
+* Indent size: 4 spaces
 
 
 ### [AngularJS](https://github.com/mgechev/angularjs-style-guide)
@@ -66,7 +66,7 @@ Starchup Code Conventions
 
 * Generally follow [Google's style guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) important aspects will be highlighted
 * Code width: 100 characters
-* Tab size: 4 spaces
+* Indent size: 4 spaces
 * Always use var to declare variables
 * Semicolons needed
 * Follow [Google's naming convention](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml?showone=Naming#Naming)
@@ -79,7 +79,7 @@ Starchup Code Conventions
 
 ### Frontend CSS
 
-* Tab size: 4 spaces
+* Indent size: 4 spaces
 * Always use `rem` for fonts instead of `em`
 * Try to avoid `%` vs `calc` for fonts, but they are allowed
 * Don't use `vh`/`vw` for layout
